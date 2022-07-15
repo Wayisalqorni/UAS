@@ -1,0 +1,489 @@
+CRITICAL - 2022-07-14 10:28:37 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 10:30:36 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:53:41 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:54:12 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:54:15 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:54:16 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:54:17 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:54:18 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:54:22 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:54:39 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:55:31 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 11:55:33 --> Class "App\Models\WargalModel" not found
+in APPPATH\Controllers\Warga.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Warga->index()
+ 2 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Warga))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 12:04:50 --> Invalid file: pages/warga.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/warga.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/warga', [], true)
+ 3 APPPATH\Controllers\pages.php(12): view('pages/warga', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Pages->warga()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 12:51:03 --> Undefined variable $row
+in APPPATH\Views\pages\warga.php on line 25.
+ 1 APPPATH\Views\pages\warga.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $row', 'APPPATH\\Views\\pages\\warga.php', 25)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\warga.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/warga', [], true)
+ 5 APPPATH\Controllers\pages.php(12): view('pages/warga', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\Pages->warga()
+ 7 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 14:23:41 --> Undefined array key "Nama"
+in APPPATH\Views\pages\warga.php on line 23.
+ 1 APPPATH\Views\pages\warga.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Nama"', 'APPPATH\\Views\\pages\\warga.php', 23)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pages\\warga.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/warga', [], true)
+ 5 APPPATH\Controllers\datawarga.php(25): view('pages/warga', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->warga()
+ 7 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 14:30:48 --> syntax error, unexpected token "{", expecting "function" or "const"
+in APPPATH\Controllers\pages.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\pages.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Pages')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Pages')
+ 4 SYSTEMPATH\CodeIgniter.php(848): class_exists('\\App\\Controllers\\Pages', true)
+ 5 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 14:46:06 --> Invalid file: pages/warga.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/warga.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/warga', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('pages/warga', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 14:48:00 --> Invalid file: pages/warga.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/warga.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/warga', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('pages/warga', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 14:48:03 --> Invalid file: pages/warga.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/warga.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/warga', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('pages/warga', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 14:50:30 --> Invalid file: pages/warga.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/warga.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/warga', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('pages/warga', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 14:50:32 --> Invalid file: pages/warga.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/warga.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pages/warga', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('pages/warga', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 14:53:41 --> Invalid file: datawarga/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/index', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('datawarga/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 15:36:15 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(34): view('datawarga/create', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->create()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 15:41:33 --> Invalid file: datawarga/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/index', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('datawarga/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 15:48:23 --> Invalid file: datawarga/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/index', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('datawarga/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 15:48:25 --> Invalid file: datawarga/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/index', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('datawarga/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 15:49:20 --> Invalid file: datawarga/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/index', [], true)
+ 3 APPPATH\Controllers\datawarga.php(25): view('datawarga/index', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 16:39:01 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(34): view('datawarga/create', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->create()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 16:41:29 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(34): view('datawarga/create', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->create()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 16:41:48 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(34): view('datawarga/create', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->create()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 16:42:43 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(34): view('datawarga/create', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->create()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 16:46:15 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(34): view('datawarga/create', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->create()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 16:48:05 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(34): view('datawarga/create', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->create()
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-14 18:18:51 --> Unknown column 'created_at' in 'field list'
+CRITICAL - 2022-07-14 18:18:51 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010163\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:18:51\', \'2022-07-14 18:18:51\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(678): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010163\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:18:51\', \'2022-07-14 18:18:51\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010163\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:18:51\', \'2022-07-14 18:18:51\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (:nik:, :nama:, :kelamin:, :alamat:, :no_rumah:, :status:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\datawarga.php(42): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->save()
+11 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+12 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-14 18:18:56 --> Unknown column 'created_at' in 'field list'
+CRITICAL - 2022-07-14 18:18:56 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010163\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:18:56\', \'2022-07-14 18:18:56\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(678): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010163\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:18:56\', \'2022-07-14 18:18:56\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010163\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:18:56\', \'2022-07-14 18:18:56\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (:nik:, :nama:, :kelamin:, :alamat:, :no_rumah:, :status:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\datawarga.php(42): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->save()
+11 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+12 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-14 18:22:04 --> Unknown column 'created_at' in 'field list'
+CRITICAL - 2022-07-14 18:22:04 --> Unknown column 'created_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010162\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:22:04\', \'2022-07-14 18:22:04\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(678): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010162\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:22:04\', \'2022-07-14 18:22:04\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (\'312010162\', \'Susi Susanti\', NULL, \'bekasi\', NULL, \'1\', \'2022-07-14 18:22:04\', \'2022-07-14 18:22:04\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `warga` (`nik`, `nama`, `kelamin`, `alamat`, `no_rumah`, `status`, `created_at`, `updated_at`) VALUES (:nik:, :nama:, :kelamin:, :alamat:, :no_rumah:, :status:, :created_at:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], false)
+ 8 SYSTEMPATH\BaseModel.php(658): CodeIgniter\Model->insert([...], false)
+ 9 APPPATH\Controllers\datawarga.php(42): CodeIgniter\BaseModel->save([...])
+10 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->save()
+11 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+12 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 18:36:52 --> Undefined variable $k
+in APPPATH\Views\Warga\index.php on line 28.
+ 1 APPPATH\Views\Warga\index.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $k', 'APPPATH\\Views\\Warga\\index.php', 28)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\Warga\\index.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Warga/index', [], true)
+ 5 APPPATH\Controllers\datawarga.php(23): view('Warga/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->index()
+ 7 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:01:36 --> Call to a member function where() on null
+in APPPATH\Models\wargaModel.php on line 20.
+ 1 APPPATH\Controllers\datawarga.php(28): App\Models\wargaModel->getwarga('$id')
+ 2 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->ubah('1')
+ 3 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:14:29 --> syntax error, unexpected single-quoted string "warga", expecting "]"
+in APPPATH\Controllers\datawarga.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\datawarga.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\datawarga')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\datawarga')
+ 4 SYSTEMPATH\CodeIgniter.php(848): class_exists('\\App\\Controllers\\datawarga', true)
+ 5 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:14:32 --> syntax error, unexpected single-quoted string "warga", expecting "]"
+in APPPATH\Controllers\datawarga.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\datawarga.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\datawarga')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\datawarga')
+ 4 SYSTEMPATH\CodeIgniter.php(848): class_exists('\\App\\Controllers\\datawarga', true)
+ 5 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:14:35 --> syntax error, unexpected single-quoted string "warga", expecting "]"
+in APPPATH\Controllers\datawarga.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\datawarga.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\datawarga')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\datawarga')
+ 4 SYSTEMPATH\CodeIgniter.php(848): class_exists('\\App\\Controllers\\datawarga', true)
+ 5 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:14:51 --> syntax error, unexpected single-quoted string "warga", expecting "]"
+in APPPATH\Controllers\datawarga.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\datawarga.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\datawarga')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\datawarga')
+ 4 SYSTEMPATH\CodeIgniter.php(848): class_exists('\\App\\Controllers\\datawarga', true)
+ 5 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:14:53 --> syntax error, unexpected single-quoted string "warga", expecting "]"
+in APPPATH\Controllers\datawarga.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\datawarga.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\datawarga')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\datawarga')
+ 4 SYSTEMPATH\CodeIgniter.php(848): class_exists('\\App\\Controllers\\datawarga', true)
+ 5 SYSTEMPATH\CodeIgniter.php(455): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:31:05 --> Invalid file: datawarga/ubah.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/ubah.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/ubah', [], true)
+ 3 APPPATH\Controllers\datawarga.php(32): view('datawarga/ubah')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->ubah('index')
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:32:36 --> Invalid file: datawarga/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/index', [], true)
+ 3 APPPATH\Controllers\datawarga.php(32): view('datawarga/index')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->ubah('index')
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:32:51 --> Invalid file: datawarga/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/index.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/index', [], true)
+ 3 APPPATH\Controllers\datawarga.php(32): view('datawarga/index')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->ubah('create')
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:33:04 --> Invalid file: datawarga/.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/', [], true)
+ 3 APPPATH\Controllers\datawarga.php(32): view('datawarga/')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->ubah('create')
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:34:46 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(32): view('datawarga/create')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->ubah('create')
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:35:05 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(32): view('datawarga/create')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->ubah('idndex')
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-14 19:35:12 --> Invalid file: datawarga/create.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('datawarga/create.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('datawarga/create', [], true)
+ 3 APPPATH\Controllers\datawarga.php(32): view('datawarga/create')
+ 4 SYSTEMPATH\CodeIgniter.php(898): App\Controllers\datawarga->ubah('index')
+ 5 SYSTEMPATH\CodeIgniter.php(468): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\datawarga))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
